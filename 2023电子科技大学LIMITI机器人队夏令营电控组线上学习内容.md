@@ -405,6 +405,10 @@
 
 要有CAN，SPI，IIC，UART等
 
+![image-20230623205926586](2023电子科技大学LIMITI机器人队夏令营电控组线上学习内容.assets/image-20230623205926586.png)
+
+[可以单买板子，也可以连着烧录器一起买，电路组推荐的](https://item.taobao.com/item.htm?id=630545119702&price=58-76&sourceType=item&sourceType=item&suid=7a19d0ea-2294-4153-ae36-b51edcf69dcb&shareUniqueId=22067925795&ut_sk=1.Xwmjy67I66oDANtEMfQp0gOu_21646297_1687520074316.TaoPassword-QQ.1&un=713e306de3bc4a468c909781ef4cb5b1&share_crt_v=1&un_site=0&spm=a2159r.13376460.0.0&sp_abtk=gray_1_code_simpleAndroid2&tbSocialPopKey=shareItem&sp_tk=ZGdTWWRJNmNUdG0%3D&cpp=1&shareurl=true&short_name=h.5aLIJxk&bxsign=scdHlIdEd55Ooc0W-eHUXPjW6pAzb6qoM-uG0LOwxeNvwbCVGGZVR2Bz1FwEMrECpHuYzYYtoXJroucHpSOApPGbL9hDQM5pVNji66N2VDxeLhsIiqI5Ksr9_m88qBLo64dQRftz48YSUha41rRtceiJQ&tk=dgSYdI6cTtm&app=chrome)
+
 ### USB转TTL
 
 用于与电脑进行串口通信
